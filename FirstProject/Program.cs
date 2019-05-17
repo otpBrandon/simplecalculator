@@ -6,7 +6,6 @@ namespace FirstProject
     {
         public class Operations
         {
-            // Git Change test comment 2
             // Addition method
             public int GetSum(int num1, int num2)
             {
