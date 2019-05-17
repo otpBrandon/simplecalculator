@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\otpbr\\Source\\Repos\\simplecalculator\\FirstProject\\FirstProject.csproj": {}
+    "C:\\Users\\otpbr\\source\\repos\\simplecalculator\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\otpbr\\Source\\Repos\\simplecalculator\\FirstProject\\FirstProject.csproj": {
+    "C:\\Users\\otpbr\\source\\repos\\simplecalculator\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\otpbr\\Source\\Repos\\simplecalculator\\FirstProject\\FirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\otpbr\\source\\repos\\simplecalculator\\FirstProject\\FirstProject.csproj",
         "projectName": "FirstProject",
-        "projectPath": "C:\\Users\\otpbr\\Source\\Repos\\simplecalculator\\FirstProject\\FirstProject.csproj",
+        "projectPath": "C:\\Users\\otpbr\\source\\repos\\simplecalculator\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\otpbr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\otpbr\\Source\\Repos\\simplecalculator\\FirstProject\\obj\\",
+        "outputPath": "C:\\Users\\otpbr\\source\\repos\\simplecalculator\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
